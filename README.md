@@ -4,4 +4,5 @@ A Simple Platformer Inside The Browser. I Just Need To Be Able To Complete Somet
 Yeah So All Of My Things Are Incomplete. To Counter This, I Have Decided To Use JavaScript To Make A Game To Save Time
 
 ## Note:
-If You Have Any Issues With Bugs, Make A Ticket And I Will Try My Best To Fix It Within A Few Days.
+- If You Have Any Issues With Bugs, Make A Ticket And I Will Try My Best To Fix It Within A Few Days.
+- Also, I Haven't Decided On Any Name Yet, But I Know What The Game Will Be About, So...
